@@ -4,3 +4,6 @@
 # 3. Escribe un mensaje de bienvenida
 
 # Escribe tu código aquí abajo
+print("Mi nombre es marco")
+print("mi edad es 21")
+print("les doy la bienvenida a mi codigo")
